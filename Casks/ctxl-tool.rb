@@ -1,6 +1,6 @@
 cask "ctxl-tool" do
-  version "0.2.0"
-  sha256 "5047c062577c3e811afd6cc385ebc0691ce7d7c3556d8d6f5243ef7fceb03ff4"
+  version "0.2.1"
+  sha256 "da8b27d49d536cef4b630e1103f3e5104a0e8e2f5517d9f6ca1f8a865e55febb"
 
   url "https://github.com/ContextualIO/ctxl-tool-artifacts/releases/download/v#{version}/ctxl-tool_#{version}_universal.dmg"
   name "Ctxl Tool"
